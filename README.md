@@ -4,13 +4,13 @@
 
 * #### **预览图 preview**
 
-!\[p1\_师徒三人 Hei \& Wu Xian \& Lu Ye](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E5%B8%88%E5%BE%92%E4%B8%89%E4%BA%BA.png)
+![p1_师徒三人 Hei \& Wu Xian \& Lu Ye](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E5%B8%88%E5%BE%92%E4%B8%89%E4%BA%BA.png)
 
-!\[p2\_无限 Wu Xian](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E6%97%A0%E9%99%90.png)
+![p2_无限 Wu Xian](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E6%97%A0%E9%99%90.png)
 
-!\[p3\_哪吒 Naza](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%93%AA%E5%90%92.png)
+![p3_哪吒 Naza](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%93%AA%E5%90%92.png)
 
-!\[p4\_罗小黑 Hei](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%B0%8F%E9%BB%91.png)
+![p4_罗小黑 Hei](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%B0%8F%E9%BB%91.png)
 
 
 
@@ -20,7 +20,7 @@ don't print the hidden layers or the topmost layer.
 
 不要打印隐藏图层和最顶部的图层。
 
-!\[](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/readme.avif)
+![](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/readme.avif)
 
 
 
@@ -60,5 +60,5 @@ Just find a reliable vendor to print the DIY acrylic piece, and additional proce
 
 如使用本作品，请注明原作者（你的名字或用户名）及原始IP归属。
 
-[!\[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
