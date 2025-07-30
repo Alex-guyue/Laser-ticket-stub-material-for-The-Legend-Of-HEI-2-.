@@ -59,6 +59,20 @@ Just find a reliable vendor to print the DIY acrylic piece, and additional proce
 ##### 署名要求
 
 如使用本作品，请注明原作者（你的名字或用户名）及原始IP归属。
+## Open Source License: CC-BY 4.0 (Attribution 4.0 International)
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
+
+### Derivative Work Statement
+This work is based on [Original IP Name], the copyright of which is owned by [Company Name]. This work is a derivative creation only; the original IP rights belong to [Company Name]. Usage of this work must also comply with the licensing terms of the original IP.
+
+### Disclaimer
+1. The author assumes no responsibility for the copyright legitimacy of the original IP.
+2. This work is provided "as is" without any warranties.
+3. Any legal disputes arising from the use of this work are not the responsibility of the author.
+
+### Attribution Requirement
+If you use this work, please credit the original author (your name or username) and indicate the original IP ownership.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
