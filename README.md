@@ -4,7 +4,7 @@
 
 * #### **预览图 preview**
 
-<img alt="p1_师徒三人 Hei \& Wu Xian \& Lu Ye" src="https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E5%B8%88%E5%BE%92%E4%B8%89%E4%BA%BA.png/>
+<img alt="p1_师徒三人 Hei \& Wu Xian \& Lu Ye" src="https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E5%B8%88%E5%BE%92%E4%B8%89%E4%BA%BA.png" height="600"/>
 ![p2_无限 Wu Xian](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8-%E6%97%A0%E9%99%90.png) ![p3_哪吒 Naza](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%93%AA%E5%90%92.png) ![p4_罗小黑 Hei](https://raw.githubusercontent.com/Alex-guyue/Laser-ticket-stub-material-for-The-Legend-Of-HEI-2-./refs/heads/main/%E9%95%AD%E5%B0%84%E7%A5%A8\_%E5%B0%8F%E9%BB%91.png )
 
 * #### **实拍图 Real Shot Photos **
